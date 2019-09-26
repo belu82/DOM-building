@@ -2,7 +2,7 @@
 
 * Clone the repository.
 * Navigate into its directory on the command-line.
-* Execute `python3 -m http.server` and keep it running.
+* Execute `d` and keep it running.
 * Go to `http://localhost:8000` in your browser.
 
 The last command will start-up a very simple webserver and will serve files from the directory in which you started the command on port 8080.
